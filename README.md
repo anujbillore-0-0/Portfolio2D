@@ -4,7 +4,7 @@ Inspired by the many creative 3D developer portfolios, I create one that's 2D in
 This is meant as a template that you can use to build your own. It works on both desktop
 and mobile.
 
-![A screenshot of the project](./developerportfoliothumbnail.png)
+![A screenshot of the project]![developerportfoliothumbnail](https://github.com/user-attachments/assets/30d6dcde-dcba-4fda-9566-85fca37761dc)
 
 Live Demo : https://anujbillore-0-0.github.io/Portfolio/
 
